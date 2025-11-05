@@ -61,13 +61,3 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento backend, esp
 
 ---
 
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=unludoj&color=6DB33F&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
-</div>
