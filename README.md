@@ -21,22 +21,9 @@
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend, especializado em **Java** e **Spring Boot**. Busco criar soluções eficientes e escaláveis, seguindo as melhores práticas de desenvolvimento e padrões de design.
 
-- 🔭 Atualmente trabalhando em projetos com **Spring Boot** e **APIs RESTful**
-- 🌱 Estudando **microsserviços**, **Docker** e **arquitetura de software**
-- 💡 Interessado em **Clean Code**, **SOLID** e **Design Patterns**
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unludoj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unludoj&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unludoj&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
+* 🔭 Atualmente trabalhando em projetos com **Spring Boot** e **APIs RESTful**
+* 🌱 Estudando **microsserviços**, **Docker** e **arquitetura de software**
+* 💡 Interessado em **Clean Code**, **SOLID** e **Design Patterns**
 
 ---
 
@@ -63,7 +50,7 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento backend, esp
   <img src="https://img.shields.io/badge/H2-0000FF?style=for-the-badge&logo=h2&logoColor=white" alt="H2"/>
 </div>
 
-### Ferramentas & DevOps
+### Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -83,18 +70,4 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento backend, esp
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=unludoj&color=6DB33F&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
-</div>
-
-<div align="center">
-  <h3>💭 Citação do Dia</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-  ### ⭐ Deixe uma estrela nos repositórios que você achar interessante!
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-  
 </div>
