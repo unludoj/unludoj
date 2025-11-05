@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>☕ Estudante de Engenharia de Software | Desenvolvedor Backend Java</strong><br>
-  código limpo e arquiteturas escaláveis
+  Apaixonado por criar APIs robustas, código limpo e arquiteturas escaláveis
 </p>
 
 <div align="center">
@@ -67,4 +67,34 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento backend, esp
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src=
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</div>
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=unludoj&color=6DB33F&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
+</div>
+
+<div align="center">
+  <h3>💭 Citação do Dia</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  
+  ### ⭐ Deixe uma estrela nos repositórios que você achar interessante!
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  
+</div>
