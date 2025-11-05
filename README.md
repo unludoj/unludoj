@@ -4,12 +4,12 @@
 
 <p align="center">
   <strong>☕ Estudante de Engenharia de Software | Desenvolvedor Backend Java</strong><br>
-  Apaixonado por criar APIs robustas, código limpo e arquiteturas escaláveis
+  código limpo e arquiteturas escaláveis
 </p>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-gon%C3%A7alves-3a3ab435b/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/)
   [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaolucas.office@gmail.com)
   [![GitHub](https://img.shields.io/github/followers/unludoj?label=Seguidores&style=for-the-badge&logo=github)](https://github.com/unludoj)
   
@@ -24,7 +24,6 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento backend, esp
 - 🔭 Atualmente trabalhando em projetos com **Spring Boot** e **APIs RESTful**
 - 🌱 Estudando **microsserviços**, **Docker** e **arquitetura de software**
 - 💡 Interessado em **Clean Code**, **SOLID** e **Design Patterns**
-- 🎯 Objetivo: Me tornar um desenvolvedor backend sênior
 
 ---
 
@@ -68,53 +67,4 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento backend, esp
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/unludoj/unludoj/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unludoj&repo=nome-do-projeto&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/unludoj/nome-do-projeto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=unludoj&repo=outro-projeto&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/unludoj/outro-projeto)
-
-</div>
-
----
-
-## 📈 Atividade Recente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=unludoj&color=6DB33F&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
-</div>
-
-<div align="center">
-  <h3>💭 Citação do Dia</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-  ### ⭐ Deixe uma estrela nos repositórios que você achar interessante!
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-  
-</div>
+  <img src=
