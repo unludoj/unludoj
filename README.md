@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>☕ Estudante de Engenharia de Software | Desenvolvedor Backend Java</strong><br>
-  Apaixonado por criar APIs robustas, código limpo e arquiteturas escaláveis
+  código limpo e arquiteturas escaláveis
 </p>
 
 <div align="center">
