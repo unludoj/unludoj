@@ -15,15 +15,23 @@
   
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades-6DB33F?style=for-the-badge&logo=handshake&logoColor=white" alt="Status"/>
-</div>
-
 ---
 
 ## 🚀 Sobre Mim
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend, especializado em **Java** e **Spring Boot**. Busco criar soluções eficientes e escaláveis, seguindo as melhores práticas de desenvolvimento e padrões de design.
+
+```java
+public class JoaoLucas {
+    private String currentFocus = "Backend Development";
+    private String[] techStack = {"Java", "Spring Boot", "MySQL", "Docker"};
+    private String[] studying = {"Microsserviços", "Clean Architecture", "Design Patterns"};
+    
+    public String getMotivation() {
+        return "Transformando café em código limpo ☕";
+    }
+}
+```
 
 * 🔭 Atualmente trabalhando em projetos com **Spring Boot** e **APIs RESTful**
 * 🌱 Estudando **microsserviços**, **Docker** e **arquitetura de software**
@@ -122,29 +130,3 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento backend, esp
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unludoj&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unludoj&custom_title=Gráfico%20de%20Atividades&bg_color=0d1117&color=6db33f&line=6db33f&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=unludoj&color=6DB33F&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views"/>
-</div>
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House 💻
-  
-</div>
