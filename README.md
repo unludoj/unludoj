@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend, especializado em **Java** e **Spring Boot**. Busco criar soluções eficientes e escaláveis, seguindo as melhores práticas de desenvolvimento e padrões de design.
+Sou estudante de Engenharia de Software com foco em desenvolvimento em **Java**. Busco criar soluções eficientes e escaláveis, seguindo as melhores práticas de desenvolvimento e padrões de design.
 
 ```java
 public class JoaoLucas {
