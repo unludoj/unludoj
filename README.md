@@ -1,132 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6DB33F&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Jo%C3%A3o+Lucas+%F0%9F%91%8B;Backend+Developer;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&color=6DB33F&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Jo%C3%A3o+Lucas+%F0%9F%91%8B;Backend+Developer;Software+Engineering+Student" alt="Typing SVG" />
+
+  <p>
+    <strong>☕ Estudante de Engenharia de Software | Backend Java</strong><br>
+    Focado em Clean Code, SOLID e Arquiteturas Escaláveis
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:joaolucas.office@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/unludoj"><img src="https://img.shields.io/github/followers/unludoj?label=Followers&style=flat-square&logo=github" /></a>
+  </p>
 </div>
 
-<p align="center">
-  <strong>☕ Estudante de Engenharia de Software | Desenvolvedor Backend Java</strong><br>
-  código limpo e arquiteturas escaláveis
+---
+
+### 🚀 Sobre Mim
+
+Estudante de Engenharia de Software focado no ecossistema **Java/Spring**. Atualmente aprofundando conhecimentos em **Microsserviços, Docker e Design Patterns**.
+
+- 🔭 **Projetos atuais:** APIs RESTful com Spring Boot e segurança com Spring Security.
+- 🌱 **Evoluindo em:** Clean Architecture e infraestrutura com Docker.
+
+---
+
+### 🛠️ Stack Tecnológica
+
+**Linguagens & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,js&perline=6" />
 </p>
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/)
-  [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaolucas.office@gmail.com)
-  [![GitHub](https://img.shields.io/github/followers/unludoj?label=Seguidores&style=for-the-badge&logo=github)](https://github.com/unludoj)
-  
-</div>
+**Infra & Banco de Dados**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,postman,idea&perline=6" />
+</p>
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou estudante de Engenharia de Software com foco em desenvolvimento em **Java**. Busco criar soluções eficientes e escaláveis, seguindo as melhores práticas de desenvolvimento e padrões de design.
-
-```java
-public class JoaoLucas {
-    private String currentFocus = "Backend Development";
-    private String[] techStack = {"Java", "Spring Boot", "MySQL", "Docker"};
-    private String[] studying = {"Microsserviços", "Clean Architecture", "Design Patterns"};
-    
-    public String getMotivation() {
-        return "Transformando café em código limpo ☕";
-    }
-}
-```
-
-* 🔭 Atualmente trabalhando em projetos com **Spring Boot** e **APIs RESTful**
-* 🌱 Estudando **microsserviços**, **Docker** e **arquitetura de software**
-* 💡 Interessado em **Clean Code**, **SOLID** e **Design Patterns**
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Linguagens
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-    </tr>
-  </table>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=unludoj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unludoj&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
-### Frameworks & Bibliotecas
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-        <br>Spring Boot
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
-        <br>Hibernate
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-        <br>Maven
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Banco de Dados
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Ferramentas
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-        <br>IntelliJ
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-      </td>
-    </tr>
-  </table>
-</div>
-
----
