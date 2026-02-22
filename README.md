@@ -21,6 +21,7 @@ Estudante de Engenharia de Software focado no ecossistema **Java/Spring**. Atual
 
 * 🔭 **Projetos atuais:** APIs RESTful com Spring Boot e segurança com Spring Security.
 * 🌱 **Evoluindo em:** Clean Architecture e infraestrutura com Docker.
+* 💡 **Interesses:** Desenvolvimento de sistemas resilientes e código de alta qualidade.
 
 ---
 
@@ -38,7 +39,6 @@ Estudante de Engenharia de Software focado no ecossistema **Java/Spring**. Atual
 
 ---
 
-### 📊 Estatísticas
-
 <div align="center">
-  <img height="160em" src="
+  <sub>Transformando café em código limpo ☕</sub>
+</div>
