@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=6DB33F&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Jo%C3%A3o+Lucas+%F0%9F%91%8B;Backend+Developer;Software+Engineering+Student" alt="Typing SVG" />
 
   <p>
-    <strong>☕ Estudante de Engenharia de Software | Backend Java</strong><br>
+    <strong> Estudante de Engenharia de Software | Backend Java</strong><br>
     Focado em Clean Code, SOLID e Arquiteturas Escaláveis
   </p>
 
@@ -18,11 +18,6 @@
 ### 🚀 Sobre Mim
 
 Estudante de Engenharia de Software focado no ecossistema **Java/Spring**. Atualmente aprofundando conhecimentos em **Microsserviços, Docker e Design Patterns**.
-
-* 🔭 **Projetos atuais:** APIs RESTful com Spring Boot e segurança com Spring Security.
-* 🌱 **Evoluindo em:** Clean Architecture e infraestrutura com Docker.
-* 💡 **Interesses:** Desenvolvimento de sistemas resilientes e código de alta qualidade.
-
 ---
 
 ### 🛠️ Stack Tecnológica
