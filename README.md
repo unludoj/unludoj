@@ -38,7 +38,3 @@ Estudante de Engenharia de Software focado no ecossistema **Java/Spring**. Atual
 </p>
 
 ---
-
-<div align="center">
-  <sub>Transformando café em código limpo ☕</sub>
-</div>
