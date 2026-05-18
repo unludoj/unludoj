@@ -27,27 +27,22 @@ Desenvolvedor Backend focado no ecossistema **Java e Spring Boot**, além de for
 
 ### 🛠️ Stack Tecnológica
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Java, JavaScript, Python |
-| **Frameworks & Core** | Spring Boot, Spring Security, Hibernate (JPA), Maven |
-| **Banco de Dados** | MySQL, PostgreSQL, SQL Server |
-| **DevOps & Ferramentas** | Docker, Git, GitHub Actions, Postman, IntelliJ IDEA |
-| **Testes & QA** | RestAssured, JUnit 5, AssertJ |
+> **Linguagens**
+> `Java` • `JavaScript` • `Python`
 
----
+> **Frameworks & Core**
+> `Spring Boot` • `Spring Security` • `Hibernate (JPA)` • `Maven`
 
-### 💻 Projetos em Destaque
+> **Banco de Dados**
+> `MySQL` • `PostgreSQL` • `SQL Server`
 
-> [!TIP]
-> Confira alguns dos principais repositórios focados em boas práticas de engenharia:
+> **DevOps & Infra**
+> `Docker` • `Git` • `GitHub Actions`
 
-* **[api-testing-qa](https://github.com/unludoj/api-testing-qa)**: Framework de testes automatizados para APIs REST desenvolvido com Java e RestAssured, aplicando validações estruturais e de regras de negócio com JUnit 5.
-* **[TitanVault Pro](https://github.com/unludoj)**: Dashboard para gestão de inventários digitais e análise de ROI, focado em alta performance e experiência de usuário limpa.
-
----
+> **Testes & QA**
+> `RestAssured` • `JUnit 5` • `AssertJ`
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=unludoj&show_icons=true&theme=dark&icon_color=6DB33F&title_color=6DB33F&text_color=fff&bg_color=161b22&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unludoj&layout=compact&theme=dark&icon_color=6DB33F&title_color=6DB33F&text_color=fff&bg_color=161b22&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=unludoj&show_icons=true&theme=dark&icon_color=6DB33F&title_color=6DB33F&text_color=fff&bg_color=161b22&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=unludoj&theme=dark&fire=6DB33F&ring=6DB33F&currStreakLabel=6DB33F&background=161b22&hide_border=true" />
 </div>
