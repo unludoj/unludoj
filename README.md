@@ -1,48 +1,71 @@
+# João Lucas 👋
+
+**Backend Developer | Java | Spring Boot**
+
+Desenvolvedor Backend em formação, apaixonado por criar soluções escaláveis e bem estruturadas. Estudante de Engenharia de Software focado em **Java, Spring Boot e arquitetura limpa**, buscando estágio para aprimorar conhecimentos em desenvolvimento de sistemas robustos.
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=6DB33F&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Jo%C3%A3o+Lucas+%F0%9F%91%8B;Backend+Developer;Software+Engineering+Student" alt="Typing SVG" />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaolucas.office@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/unludoj?label=GitHub&style=flat-square&logo=github)](https://github.com/unludoj)
 
-  <p>
-    <strong>Estudante de Engenharia de Software | Backend Java & Quality Assurance</strong><br>
-    Focado em Clean Code, SOLID, Arquiteturas Escaláveis e Testes Automatizados
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:joaolucas.office@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/unludoj"><img src="https://img.shields.io/github/followers/unludoj?label=Followers&style=for-the-badge&logo=github" /></a>
-  </p>
 </div>
 
 ---
 
-### 🚀 Sobre Mim
+## 🎓 Sobre
 
-Desenvolvedor Backend focado no ecossistema **Java e Spring Boot**, além de forte atuação em engenharia de qualidade (**QA**). Busco criar soluções robustas, performáticas e altamente testadas, aplicando conceitos de arquitetura limpa e microsserviços. 
-
-* 🎓 Graduando em Engenharia de Software.
-* 🛠️ Experiência com conteinerização, bancos de dados relacionais e modelagem de APIs RESTful.
-* 🧪 Foco em automação de testes (Unitários, Integração e End-to-End).
+- Graduando em **Engenharia de Software**
+- Desenvolvimento Backend com foco em **Java e Spring Boot**
+- Experiência com arquitetura de APIs RESTful e banco de dados relacional
+- Interesse em Clean Code, SOLID e padrões de projeto
 
 ---
 
-### 🛠️ Stack Tecnológica
+## 💻 Tecnologias
 
-> **Linguagens**
-> `Java` • `JavaScript` • `Python`
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
-> **Frameworks & Core**
-> `Spring Boot` • `Spring Security` • `Hibernate (JPA)` • `Maven`
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-> **Banco de Dados**
-> `MySQL` • `PostgreSQL` • `SQL Server`
+### Ferramentas & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-> **DevOps & Infra**
-> `Docker` • `Git` • `GitHub Actions`
+### Testes
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-4CAF50?style=flat&logoColor=white)
 
-> **Testes & QA**
-> `RestAssured` • `JUnit 5` • `AssertJ`
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=unludoj&show_icons=true&theme=dark&icon_color=6DB33F&title_color=6DB33F&text_color=fff&bg_color=161b22&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=unludoj&theme=dark&fire=6DB33F&ring=6DB33F&currStreakLabel=6DB33F&background=161b22&hide_border=true" />
+  
+![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=unludoj&show_icons=true&theme=dark&icon_color=6DB33F&title_color=6DB33F&text_color=fff&bg_color=161b22&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unludoj&theme=dark&fire=6DB33F&ring=6DB33F&currStreakLabel=6DB33F&background=161b22&hide_border=true)
+
 </div>
+
+---
+
+## 🔗 Conecte-se Comigo
+
+- **LinkedIn:** [João Lucas](https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/)
+- **Email:** joaolucas.office@gmail.com
+- **GitHub:** [@unludoj](https://github.com/unludoj)
+
+---
+
+<p align="center">
+  <i>Sempre aprendendo, sempre crescendo 🚀</i>
+</p>
