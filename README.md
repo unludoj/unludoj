@@ -52,8 +52,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/unludoj/unludoj/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
 <div align="center">
   <p><i>Sempre aprendendo, sempre crescendo 🚀</i></p>
 </div>
