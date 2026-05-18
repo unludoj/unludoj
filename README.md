@@ -20,7 +20,6 @@ Desenvolvedor Backend em formação, apaixonado por criar soluções escaláveis
 
 - Graduando em **Engenharia de Software**
 - Desenvolvimento Backend com foco em **Java e Spring Boot**
-- Experiência com arquitetura de APIs RESTful e banco de dados relacional
 - Interesse em Clean Code, SOLID e padrões de projeto
 
 ---
@@ -32,16 +31,13 @@ Desenvolvedor Backend em formação, apaixonado por criar soluções escaláveis
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### Ferramentas & DevOps
+### Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
 ### Testes
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-4CAF50?style=flat&logoColor=white)
