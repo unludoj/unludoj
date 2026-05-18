@@ -41,12 +41,4 @@ Desenvolvedor Backend em formação, apaixonado por criar soluções escaláveis
 ### Testes
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-4CAF50?style=flat&logoColor=white)
-
----
-
-## 🔗 Conecte-se Comigo
-
-- **LinkedIn:** [João Lucas](https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/)
-- **Email:** joaolucas.office@gmail.com
-
 ---
