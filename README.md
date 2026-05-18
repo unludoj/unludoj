@@ -48,26 +48,9 @@ Desenvolvedor Backend em formação, apaixonado por criar soluções escaláveis
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=unludoj&show_icons=true&theme=dark&icon_color=6DB33F&title_color=6DB33F&text_color=fff&bg_color=161b22&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unludoj&theme=dark&fire=6DB33F&ring=6DB33F&currStreakLabel=6DB33F&background=161b22&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Conecte-se Comigo
 
 - **LinkedIn:** [João Lucas](https://www.linkedin.com/in/jo%C3%A3o-lucas-g-3a3ab435b/)
 - **Email:** joaolucas.office@gmail.com
-- **GitHub:** [@unludoj](https://github.com/unludoj)
 
 ---
-
-<p align="center">
-  <i>Sempre aprendendo, sempre crescendo 🚀</i>
-</p>
